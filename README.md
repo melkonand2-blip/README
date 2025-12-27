@@ -1,1 +1,1 @@
-# README<img width="442" height="324" alt="Снимок экрана 2025-10-05 150306" src="https://github.com/user-attachments/assets/71488d26-bca6-458d-8b67-a5c738b7b301" />
+<img width="444" height="422" alt="Снимок экрана 2025-12-23 225523" src="https://github.com/user-attachments/assets/dc9af7da-e803-4aaf-a87e-885f6a484099" />
